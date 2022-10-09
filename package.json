@@ -1,0 +1,21 @@
+{
+  "name": "iphone-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"**/*.{js,jsx,scss,ts,tsx}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "bree": "^9.1.2",
+    "dayjs": "^1.11.5",
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.8.0",
+    "prettier": "^2.7.1"
+  }
+}
